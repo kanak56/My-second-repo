@@ -1,3 +1,7 @@
 p{
     color: navy ;
 }
+.input{
+    background-color: red;
+    border-radius: 100vh;
+}
