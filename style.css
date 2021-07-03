@@ -5,3 +5,7 @@ p{
     font-size: 20px;
     border-radius: 100vh;
 }
+img{
+    float: right;
+    padding: auto;
+}
